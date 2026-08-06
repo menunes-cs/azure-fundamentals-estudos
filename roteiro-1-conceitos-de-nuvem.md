@@ -1,5 +1,7 @@
 # Roteiro 1: Descrever Conceitos de Nuvem
 
+![Conquista Roteiro 1](./Roteiro_01.png)
+
 **Status:** ✅ Concluído — todas as avaliações de módulo aprovadas
 **Carga horária:** 56 min
 
