@@ -6,7 +6,7 @@ Repositório documentando meu progresso de estudos para a certificação
 ## Progresso
 
 - [x] Roteiro 1 — Descrever conceitos de nuvem
-- [ ] Roteiro 2 — Descrever arquitetura e serviços do Azure
+- [x] Roteiro 2 — Descrever arquitetura e serviços do Azure
 - [ ] Roteiro 3 — Descrever gerenciamento e governança do Azure
 - [ ] Roteiro 4 — Aplicar habilidades do Azure em projetos guiados
 
@@ -25,7 +25,7 @@ Repository documenting my study progress toward the
 ## Progress
 
 - [x] Roadmap 1 — Describe cloud concepts
-- [ ] Roadmap 2 — Describe Azure architecture and services
+- [x] Roadmap 2 — Describe Azure architecture and services
 - [ ] Roadmap 3 — Describe Azure management and governance
 - [ ] Roadmap 4 — Apply Azure skills in guided projects
 
